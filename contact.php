@@ -1,6 +1,6 @@
-<?php include("layout.php"); ?>
+<?php include("front/layout.php"); ?>
 		
-	<?php include("nav.php"); ?>
+	<?php include("front/nav.php"); ?>
 
 	<aside id="fh5co-hero">
 		<div class="flexslider">
@@ -30,10 +30,10 @@
 					<div class="fh5co-contact-info">
 						<h3>Contact Information</h3>
 						<ul>
-							<li class="address">198 West 21th Street, <br> Suite 721 New York NY 10016</li>
-							<li class="phone"><a href="tel://1234567920">+ 1235 2355 98</a></li>
-							<li class="email"><a href="mailto:info@yoursite.com">info@yoursite.com</a></li>
-							<li class="url"><a href="http://freehtml5.co">freeHTML5.co</a></li>
+							<li class="address">Everywhere, <br> Just Look Into Yorself,I'll be there.</li>
+							<li class="phone"><a href="tel://1234567920">+91 9876543210</a></li>
+							<li class="email"><a href="mailto:info@yoursite.com">info@rehnuma.in</a></li>
+							<!-- <li class="url"><a href="http://freehtml5.co">freeHTML5.co</a></li> -->
 						</ul>
 					</div>
 

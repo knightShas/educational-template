@@ -12,7 +12,7 @@
 			   			<div class="col-md-8 col-md-offset-2 text-center slider-text">
 			   				<div class="slider-text-inner">
 			   					<h1 class="heading-section">About Us</h1>
-									<h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2>
+									<!-- <h2>Free html5 templates Made by <a href="http://freehtml5.co/" target="_blank">freehtml5.co</a></h2> -->
 			   				</div>
 			   			</div>
 			   		</div>
@@ -25,23 +25,23 @@
 	<div id="fh5co-about">
 		<div class="container">
 			<div class="col-md-6 animate-box">
-				<span>About Our University</span>
+				<span>About US</span>
 				<h2>Welcome to Education Website</h2>
 				<p>The Urdu word Rahnuma means a person who guides someone. Rahnuma mentorship program focuses mainly on
-				 development of quantitative and qualitative education. This program is for those students who are seeking
-				  help with career planning and daily academic planning. Nowadays, students are having issues with time
-				   management, self study, which career to choose, managing studies with other activities and many more,
-				    so Rahnuma is the solution to these problems. It basically has two broad perspectives.
-					 The program is not only helping the daily school going students to plan their career but also
-					  with their daily activities to reach their goals. Even the mentor can gain lots of experience and
-					   improve his skills. The project will help children and students to explore themselves and learn more.
-					    A large number of people who are successful in their own field are involved in this mentorship program 
-						 assist students. Rahnuma program is directed linked with Voyage Educare Foundation who has launched the
-						  program in 2018. Rahnuma program works in two dimensions. One of the dimensions is to give the career
-						   guidance to class ten or twelve passed students who get too much pixilated. Another dimension of the program
-						    is to provide mentorship daily basis to students who regularly go to school and teach them not only
-							 academic education but also social and moral education to make them good humans and achieve their holistic
-							  development. </div>
+				development of quantitative and qualitative education. This program is for those students who are seeking
+				help with career planning and daily academic planning. Nowadays, students are having issues with time
+				management, self study, which career to choose, managing studies with other activities and many more,
+				so Rahnuma is the solution to these problems. It basically has two broad perspectives.
+				The program is not only helping the daily school going students to plan their career but also
+				with their daily activities to reach their goals. Even the mentor can gain lots of experience and
+				improve his skills. The project will help children and students to explore themselves and learn more.
+				A large number of people who are successful in their own field are involved in this mentorship program 
+				assist students. Rahnuma program is directed linked with Voyage Educare Foundation who has launched the
+				program in 2018. Rahnuma program works in two dimensions. One of the dimensions is to give the career
+				guidance to class ten or twelve passed students who get too much pixilated. Another dimension of the program
+				is to provide mentorship daily basis to students who regularly go to school and teach them not only
+				academic education but also social and moral education to make them good humans and achieve their holistic
+				development. </div>
 			<div class="col-md-6">
 				<img class="img-responsive" src="images/img_bg_2.jpg" alt="Free HTML5 Bootstrap Template">
 			</div>

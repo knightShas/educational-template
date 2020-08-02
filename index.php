@@ -359,7 +359,7 @@
 		</div>
 	</div>
 
-	<div id="fh5co-pricing" class="fh5co-bg-section">
+	<!-- <div id="fh5co-pricing" class="fh5co-bg-section">
 		<div class="container">
 			<div class="row animate-box">
 				<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
@@ -459,7 +459,7 @@
             </div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<div id="fh5co-register" style="background-image: url(images/img_bg_2.jpg);">
 		<div class="overlay"></div>

@@ -12,8 +12,8 @@
 						<ul class="fh5co-social">
 							<li><a href="#"><i class="icon-facebook2"></i></a></li>
 							<li><a href="#"><i class="icon-twitter2"></i></a></li>
-							<li><a href="#"><i class="icon-dribbble2"></i></a></li>
-							<li><a href="#"><i class="icon-github"></i></a></li>
+							<!-- <li><a href="#"><i class="icon-dribbble2"></i></a></li>
+							<li><a href="#"><i class="icon-github"></i></a></li> -->
 						</ul>
 					</div>
 				</div>
@@ -43,7 +43,7 @@
 							</li> -->
 							<li><a href="contact.php">Contact</a></li>
 							<li class="btn-cta"><a href="#"><span>Login</span></a></li>
-							<li class="btn-cta"><a href="#"><span>Create a Course</span></a></li>
+							<!-- <li class="btn-cta"><a href="#"><span>Create a Course</span></a></li> -->
 						</ul>
 					</div>
 				</div>
